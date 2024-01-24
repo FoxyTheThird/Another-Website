@@ -3,7 +3,7 @@
 // that they need an Internet connection to run the project if desired.
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
-const CACHE_VERSION = "1706048542|196894420694";
+const CACHE_VERSION = "1706098731|247082785004";
 const CACHE_PREFIX = "Web Games-sw-cache-";
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 const OFFLINE_URL = "index.offline.html";
